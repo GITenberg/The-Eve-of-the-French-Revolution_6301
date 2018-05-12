@@ -1,4 +1,8 @@
 _repo: The-Eve-of-the-French-Revolution_6301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lowell, Edward J. (Edward Jackson)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '1985'
     url: http://www.gutenberg.org/2009/agents/1985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6301#The-Eve-of-the-French-Revolution
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
